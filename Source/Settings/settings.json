@@ -1,0 +1,30 @@
+{
+  "botToken": "",
+  "botOwner": "728931818182541392",
+  "botPrefix": ".",
+  "botVoiceChannel": "972946525326028861",
+  "botActivityName": "EPOXY <3",
+  "botActivityType": "WATCHING",
+  "botStatus": "idle",
+
+  "mongoConnectionLink": "mongodb+srv://rencia:Vahap2020@cluster0.jxyds.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+  "welcomeChannel": "972946556137398352",
+  "rulesChannel": "972946569341050910",
+  "Suspicious": "972946380064702575",
+  "Unregistered": "972946415628198009",
+
+
+  "FamilyRole": "972946403519238244",
+  "Tag": "☤",
+  "Untag": "☤",
+
+  "RegisterStaff": ["728931818182541392", "841620030482284564","965716383985987685"],
+  "ManRole": "972946413841436712",
+  "WomanRole": "972946411832373258",
+  "BoosterRole": "967151881929523230",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
